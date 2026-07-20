@@ -13,6 +13,7 @@ This repository contains my daily practice, projects, and notes while learning A
 | Day 5 | OpenRouter API Chatbot | ✅ |
 | Day 6 | Chatbot with Conversation History | ✅ |
 | Day 7 | Git & GitHub | ✅ |
+| Day 8 | Prompt Engineering Fundamentals | ✅ |
 
 ## Repository Structure
 
@@ -23,6 +24,7 @@ This repository contains my daily practice, projects, and notes while learning A
 - Day_5.py
 - Day_6.py
 - Day_7.md
+- Day_8.md
 
 ## Technologies Used
 
@@ -31,3 +33,5 @@ This repository contains my daily practice, projects, and notes while learning A
 - GitHub
 - OpenRouter API
 - VS Code
+- Prompt Engineering
+
