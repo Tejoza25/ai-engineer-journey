@@ -39,6 +39,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 9 | Few-shot & Chain-of-Thought Prompting | ✅ |
 | Day 10 | Structured JSON Output & Information Extraction | ✅ |
 | Day 11 | Product Support Chatbot using System Prompts | ✅ |
+| Day 12 | Tokens, Context Limits & Cost Tracking | ✅ |
 
 ---
 
@@ -70,6 +71,14 @@ Each project is built incrementally to strengthen practical AI engineering skill
 
 ---
 
+### 📊 Token Usage Monitor (Day 12)
+
+- Learned how LLMs process text into tokens
+- Explored context windows and conversation limits
+- Displayed prompt, completion, and total token usage from API responses
+- Improved understanding of AI cost optimization
+
+
 # 🛠️ Technologies & Tools
 
 ### Programming
@@ -85,6 +94,9 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Few-shot Prompting
 - Chain-of-Thought Prompting
 - Structured JSON Generation
+- Token Usage Monitoring
+- Context Window Management
+- Cost Optimization
 
 ### Development Tools
 
@@ -117,6 +129,7 @@ AI-Engineering-Portfolio/
 ├── day_10.py
 ├── day_11.py
 
+├── day_12.md
 ```
 
 ---
@@ -134,6 +147,7 @@ Currently learning and building projects around:
 - Python for AI
 - Git & GitHub
 - API Integration
+- Token Usage Monitoring & Cost Optimization
 
 ---
 
