@@ -40,7 +40,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 10 | Structured JSON Output & Information Extraction | ✅ |
 | Day 11 | Product Support Chatbot using System Prompts | ✅ |
 | Day 12 | Tokens, Context Limits & Cost Tracking | ✅ |
-
+| Day 13 | Real-Time Streaming Chatbot | ✅ |
 ---
 
 # 💻 Projects Completed
@@ -78,6 +78,13 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Displayed prompt, completion, and total token usage from API responses
 - Improved understanding of AI cost optimization
 
+### ⚡ Real-Time Streaming Chatbot (Day 13)
+
+- Implemented streaming responses using the OpenRouter API
+- Displayed AI-generated text incrementally
+- Improved chatbot responsiveness and user experience
+- Learned production-style streaming techniques used by modern AI assistants
+
 
 # 🛠️ Technologies & Tools
 
@@ -97,6 +104,8 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Token Usage Monitoring
 - Context Window Management
 - Cost Optimization
+- Streaming API Responses
+- Real-Time Output Rendering
 
 ### Development Tools
 
@@ -130,7 +139,8 @@ AI-Engineering-Portfolio/
 ├── day_11.py
 
 ├── day_12.md
-```
+├── day_13.md
+├── day_13.py
 
 ---
 
@@ -148,7 +158,7 @@ Currently learning and building projects around:
 - Git & GitHub
 - API Integration
 - Token Usage Monitoring & Cost Optimization
-
+- Building Responsive AI Chat Applications
 ---
 
 # 📈 Skills Gained
