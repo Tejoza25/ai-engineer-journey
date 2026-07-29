@@ -41,6 +41,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 11 | Product Support Chatbot using System Prompts | ✅ |
 | Day 12 | Tokens, Context Limits & Cost Tracking | ✅ |
 | Day 13 | Real-Time Streaming Chatbot | ✅ |
+| Day 14 | Clean Code & Professional Project Documentation | ✅ |
 ---
 
 # 💻 Projects Completed
@@ -85,6 +86,12 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Improved chatbot responsiveness and user experience
 - Learned production-style streaming techniques used by modern AI assistants
 
+### 🧹 Refactored AI Support Chatbot (Day 14)
+
+- Improved chatbot readability through clean code practices
+- Enhanced project documentation
+- Organized code for maintainability
+- Published a polished AI project to GitHub
 
 # 🛠️ Technologies & Tools
 
@@ -106,6 +113,9 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Cost Optimization
 - Streaming API Responses
 - Real-Time Output Rendering
+- Clean Code Practices
+- Software Documentation
+
 
 ### Development Tools
 
@@ -141,6 +151,8 @@ AI-Engineering-Portfolio/
 ├── day_12.md
 ├── day_13.md
 ├── day_13.py
+├── day_14.md
+├── day_14.py
 
 ---
 
@@ -159,6 +171,8 @@ Currently learning and building projects around:
 - API Integration
 - Token Usage Monitoring & Cost Optimization
 - Building Responsive AI Chat Applications
+- Writing Clean and Maintainable AI Code
+
 ---
 
 # 📈 Skills Gained
