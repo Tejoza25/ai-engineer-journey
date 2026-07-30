@@ -42,6 +42,9 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 12 | Tokens, Context Limits & Cost Tracking | ✅ |
 | Day 13 | Real-Time Streaming Chatbot | ✅ |
 | Day 14 | Clean Code & Professional Project Documentation | ✅ |
+| Day 15 | AI Agent Architecture (LLM + Tools + Memory + Loop) | ✅ |
+
+
 ---
 
 # 💻 Projects Completed
@@ -93,6 +96,14 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Organized code for maintainability
 - Published a polished AI project to GitHub
 
+### 🤖 AI Agent Architecture (Day 15)
+
+- Explored the core building blocks of AI Agents
+- Learned how LLMs collaborate with tools, memory, and reasoning loops
+- Understood the difference between traditional chatbots and autonomous AI agents
+- Studied the architecture behind modern AI systems such as ChatGPT, GitHub Copilot, and enterprise AI assistants
+
+
 # 🛠️ Technologies & Tools
 
 ### Programming
@@ -115,6 +126,12 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Real-Time Output Rendering
 - Clean Code Practices
 - Software Documentation
+- Agentic AI
+- AI Agent Architecture
+- Tool Calling Concepts
+- Memory Systems
+- Reasoning Loops
+
 
 
 ### Development Tools
@@ -154,6 +171,8 @@ AI-Engineering-Portfolio/
 ├── day_14.md
 ├── day_14.py
 
+├── day_15.md
+
 ---
 
 # 🎯 Current Focus
@@ -172,6 +191,8 @@ Currently learning and building projects around:
 - Token Usage Monitoring & Cost Optimization
 - Building Responsive AI Chat Applications
 - Writing Clean and Maintainable AI Code
+- Learning Agentic AI and Autonomous AI Systems
+
 
 ---
 
