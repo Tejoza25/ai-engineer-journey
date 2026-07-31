@@ -43,6 +43,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 13 | Real-Time Streaming Chatbot | ✅ |
 | Day 14 | Clean Code & Professional Project Documentation | ✅ |
 | Day 15 | AI Agent Architecture (LLM + Tools + Memory + Loop) | ✅ |
+| Day 16 | Tool Calling with LLMs | ✅ |
 
 
 ---
@@ -103,6 +104,12 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Understood the difference between traditional chatbots and autonomous AI agents
 - Studied the architecture behind modern AI systems such as ChatGPT, GitHub Copilot, and enterprise AI assistants
 
+### 🛠️ Tool Calling with LLMs (Day 16)
+
+- Learned how AI models decide when to use external tools
+- Explored the interaction between Python functions and LLMs
+- Implemented the tool calling workflow used in modern AI agents
+- Understood how tool results are incorporated into natural language responses
 
 # 🛠️ Technologies & Tools
 
@@ -131,7 +138,9 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Tool Calling Concepts
 - Memory Systems
 - Reasoning Loops
-
+- Tool Calling
+- Function Calling Concepts
+- Agent Workflows
 
 
 ### Development Tools
@@ -172,7 +181,8 @@ AI-Engineering-Portfolio/
 ├── day_14.py
 
 ├── day_15.md
-
+├── day_16.md
+├── day_16.py
 ---
 
 # 🎯 Current Focus
@@ -192,7 +202,7 @@ Currently learning and building projects around:
 - Building Responsive AI Chat Applications
 - Writing Clean and Maintainable AI Code
 - Learning Agentic AI and Autonomous AI Systems
-
+- Building AI Agents with Tool Integration
 
 ---
 
