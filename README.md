@@ -44,6 +44,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 14 | Clean Code & Professional Project Documentation | ✅ |
 | Day 15 | AI Agent Architecture (LLM + Tools + Memory + Loop) | ✅ |
 | Day 16 | Tool Calling with LLMs | ✅ |
+| Day 17 | AI Agent with Calculator Tool | ✅ |
 
 
 ---
@@ -111,6 +112,34 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Implemented the tool calling workflow used in modern AI agents
 - Understood how tool results are incorporated into natural language responses
 
+## 🚀 Featured Project
+
+### 🤖 AI Agent with Calculator Tool (Day 17)
+
+This project demonstrates the core concept of an AI Agent by combining a Large Language Model (LLM) with a custom Python calculator tool. The agent identifies percentage-based mathematical queries, delegates the calculation to a dedicated Python function, and presents the result in natural language.
+
+**Key Features:**
+- AI Agent architecture
+- Python calculator tool integration
+- Percentage calculation support
+- Intelligent request routing
+- Secure API key management using `.env`
+- OpenRouter API integration
+
+**Example**
+
+User:
+
+```text
+23% of 1847
+```
+
+Agent:
+
+```text
+23% of 1847 is 424.81.
+```
+
 # 🛠️ Technologies & Tools
 
 ### Programming
@@ -141,6 +170,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 - Tool Calling
 - Function Calling Concepts
 - Agent Workflows
+- Regular Expressions (Regex)
 
 
 ### Development Tools
@@ -183,6 +213,8 @@ AI-Engineering-Portfolio/
 ├── day_15.md
 ├── day_16.md
 ├── day_16.py
+├── day_17.md
+├── day_17.py
 ---
 
 # 🎯 Current Focus
