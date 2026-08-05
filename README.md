@@ -45,6 +45,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 15 | AI Agent Architecture (LLM + Tools + Memory + Loop) | ✅ |
 | Day 16 | Tool Calling with LLMs | ✅ |
 | Day 17 | AI Agent with Calculator Tool | ✅ |
+| Day 18 | Add DuckDuckGo search tool to AI agent | ✅ |
 
 
 ---
@@ -140,6 +141,20 @@ Agent:
 23% of 1847 is 424.81.
 ```
 
+### 🌐 AI Agent with DuckDuckGo Search Tool (Day 18)
+
+Built an AI agent capable of searching the web using DuckDuckGo. The agent automatically decides when external information is required, retrieves search results, and incorporates them into a natural language response.
+
+**Key Features**
+
+- DuckDuckGo Search Integration
+- AI Agent Tool Calling
+- Dynamic Internet Search
+- OpenRouter API
+- JSON Function Calling
+- Natural Language Responses
+
+
 # 🛠️ Technologies & Tools
 
 ### Programming
@@ -171,6 +186,9 @@ Agent:
 - Function Calling Concepts
 - Agent Workflows
 - Regular Expressions (Regex)
+- DuckDuckGo Search
+- Web Search APIs
+- External Tool Integration
 
 
 ### Development Tools
@@ -215,6 +233,10 @@ AI-Engineering-Portfolio/
 ├── day_16.py
 ├── day_17.md
 ├── day_17.py
+├── day_18.md
+├── day_18.py
+
+
 ---
 
 # 🎯 Current Focus
