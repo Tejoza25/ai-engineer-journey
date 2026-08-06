@@ -46,6 +46,8 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 16 | Tool Calling with LLMs | ✅ |
 | Day 17 | AI Agent with Calculator Tool | ✅ |
 | Day 18 | Add DuckDuckGo search tool to AI agent | ✅ |
+| Day 19 | Multi-Tool AI Agent (Calculator + DuckDuckGo Search) | ✅ |
+
 
 
 ---
@@ -154,6 +156,19 @@ Built an AI agent capable of searching the web using DuckDuckGo. The agent autom
 - JSON Function Calling
 - Natural Language Responses
 
+### 🤖 Multi-Tool AI Agent (Day 19)
+
+A Python-based AI Agent capable of selecting between a Calculator Tool and a DuckDuckGo Web Search Tool based on the user's request. The project demonstrates a simplified ReAct workflow where the agent reasons about the task, invokes the appropriate tool, observes the result, and generates a final natural language response using an LLM.
+
+**Highlights:**
+
+- Multi-tool architecture
+- Calculator integration
+- DuckDuckGo web search
+- Intelligent tool selection
+- Prompt engineering
+- OpenRouter API integration
+
 
 # 🛠️ Technologies & Tools
 
@@ -189,7 +204,13 @@ Built an AI agent capable of searching the web using DuckDuckGo. The agent autom
 - DuckDuckGo Search
 - Web Search APIs
 - External Tool Integration
-
+- Building AI-powered applications using Large Language Models (LLMs)
+- Developing AI Agents with multiple external tools
+- ReAct (Reason → Act → Observe → Answer) workflows
+- Prompt Engineering & Tool Integration
+- Python Application Development
+- AI System Architecture
+- Preparing for LangChain and LangGraph
 
 ### Development Tools
 
@@ -235,6 +256,9 @@ AI-Engineering-Portfolio/
 ├── day_17.py
 ├── day_18.md
 ├── day_18.py
+
+├── day_19.md
+├── day_19.py
 
 
 ---
