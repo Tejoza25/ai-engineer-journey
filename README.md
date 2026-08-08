@@ -48,6 +48,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 18 | Add DuckDuckGo search tool to AI agent | ✅ |
 | Day 19 | Multi-Tool AI Agent (Calculator + DuckDuckGo Search) | ✅ |
 | Day 20 | Short-Term, Long-Term & Semantic Memory | ✅ |
+| Day 21 | ReAct: Reasoning and Acting in AI Agents | ✅ |
 
 
 
@@ -274,6 +275,7 @@ AI-Engineering-Portfolio/
 ├── day_19.py
 ├── day_20.md
 ├── day_20.py
+├── day_21.md
 
 
 ---
@@ -296,7 +298,16 @@ Currently learning and building projects around:
 - Writing Clean and Maintainable AI Code
 - Learning Agentic AI and Autonomous AI Systems
 - Building AI Agents with Tool Integration
-
+- Building AI-powered applications using Large Language Models (LLMs)
+- Developing AI Agents with external tools
+- ReAct-style Agent Workflows
+- AI Memory and Context Management
+- Short-Term, Long-Term and Semantic Memory
+- Prompt Engineering
+- Tool Calling and Agent Architecture
+- Retrieval and Knowledge Integration
+- Python Application Development
+- AI System Architecture
 ---
 
 # 📈 Skills Gained
