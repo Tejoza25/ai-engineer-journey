@@ -47,6 +47,7 @@ Each project is built incrementally to strengthen practical AI engineering skill
 | Day 17 | AI Agent with Calculator Tool | ✅ |
 | Day 18 | Add DuckDuckGo search tool to AI agent | ✅ |
 | Day 19 | Multi-Tool AI Agent (Calculator + DuckDuckGo Search) | ✅ |
+| Day 20 | Short-Term, Long-Term & Semantic Memory | ✅ |
 
 
 
@@ -170,6 +171,8 @@ A Python-based AI Agent capable of selecting between a Calculator Tool and a Duc
 - OpenRouter API integration
 
 
+
+
 # 🛠️ Technologies & Tools
 
 ### Programming
@@ -211,6 +214,16 @@ A Python-based AI Agent capable of selecting between a Calculator Tool and a Duc
 - Python Application Development
 - AI System Architecture
 - Preparing for LangChain and LangGraph
+- Building AI-powered applications using Large Language Models (LLMs)
+- Developing AI Agents with external tools
+- ReAct-style Agent Workflows
+- AI Memory and Context Management
+- Short-Term, Long-Term and Semantic Memory
+- Prompt Engineering
+- Retrieval and Knowledge Integration
+- Python Application Development
+- AI System Architecture
+
 
 ### Development Tools
 
@@ -259,6 +272,8 @@ AI-Engineering-Portfolio/
 
 ├── day_19.md
 ├── day_19.py
+├── day_20.md
+├── day_20.py
 
 
 ---
